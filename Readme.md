@@ -1,19 +1,22 @@
 # Boilerplates for various projects
 
-## React + Yarn + TS + Vite + Scss
+## 1: React + Yarn + TS + Vite + Scss
 <p>Boilerplate for people who want to use Yarn, Vite, Scss, Typescript and React in a single project</p> 
 
-## Vite + React + JSX
+## 2: Vite + React + JSX
 <p>Boilerplate for people who want to use Vite, React, and JSX in a single project</p> 
 
-## Vite + React + TS
+## 3: Vite + React + TS
 <p>Boilerplate for people who want to use Vite, React, and Typescript in a single project</p> 
 
-## React + JSX
+## 4: React + JSX
 <p>Boilerplate for people who want to use React, and JSX in a single project</p> 
 
-## React + TS
+## 5: React + TS
 <p>Boilerplate for people who want to use React, and TS in a single project</p> 
 
-## React + Yarn + JSX
+## 6: React + Yarn + JSX
 <p>Boilerplate for people who want to use React, Yarn and JSX in a single project</p> 
+
+## 7: React + Yarn + TS
+<p>Boilerplate for people who want to use React, Yarn and TS in a single project</p> 
