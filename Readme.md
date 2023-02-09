@@ -20,3 +20,6 @@
 
 ## 7: React + Yarn + TS
 <p>Boilerplate for people who want to use React, Yarn and TS in a single project</p> 
+
+## 8: React + Yarn + TS + SCSS
+<p>Boilerplate for people who want to use React, Yarn, TS and SCSS in a single project</p> 
