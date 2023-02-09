@@ -11,3 +11,6 @@
 
 ## React + JSX
 <p>Boilerplate for people who want to use React, and JSX in a single project</p> 
+
+## React + TS
+<p>Boilerplate for people who want to use React, and TS in a single project</p> 
