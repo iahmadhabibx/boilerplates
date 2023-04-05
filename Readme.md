@@ -26,3 +26,6 @@
 
 ## 9: React + Yarn + JSX + SCSS
 <p>Boilerplate for people who want to use React, Yarn, JSX and SCSS in a single project</p> 
+
+## 10: Vite + React + TS + SCSS + Redux Toolkit Persist
+<p>Boilerplate for people who want to use React, Vite, TS and SCSS with Redux Toolkit state persist in a single project</p> 
